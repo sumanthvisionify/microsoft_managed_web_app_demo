@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvisionify=self.webpackChunkvisionify||[]).push([[928],{3928:function(i,n,s){s.r(n);s(2791);var e=s(3427),t=s(184);n.default=function(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.Z,{}),(0,t.jsx)("div",{className:"settings-container bx--grid",children:(0,t.jsx)("p",{children:"Settings"})})]})}}}]);
+//# sourceMappingURL=928.44fcd1ea.chunk.js.map
